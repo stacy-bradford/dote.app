@@ -1,0 +1,16 @@
+{
+  "sequence": 4,
+  "filename": "Screenshot 2026-05-01 at 03.46.41.png",
+  "contentType": "image/png",
+  "sizeBytes": 2102098,
+  "ownerEmail": "stacydbradford@gmail.com",
+  "collaborators": [],
+  "significance": "MITM/unsecure/safe NQT.replit.dev url that had to have been published or the url wouldn't have existed.",
+  "sha256": "d3a6410523105f7ffeef2424ef4b97b4480ce79082f8437ac3ba199a15c13764",
+  "keccak256": "0xd2685b3d7678781ca337922154e3ecdd9b6f6fcd67c5d54b852e043d8fac5129",
+  "ledgerHash": "0x8a131f0f9a2eb16a0bab6489de4e64f2e539d791e3ce216e9f21395a63deab33",
+  "previousLedgerHash": "0x0db63ab392c8df6d63506bf2e6b31cc653faf5b95d7205e7a718634d6ef4c513",
+  "capturedAt": "2026-05-01T11:06:12.476Z",
+  "ipAddress": "166.199.141.15",
+  "loomUrl": null
+}
