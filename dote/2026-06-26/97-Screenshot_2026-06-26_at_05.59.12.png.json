@@ -1,0 +1,26 @@
+{
+  "sequence": 97,
+  "filename": "Screenshot 2026-06-26 at 05.59.12.png",
+  "contentType": "image/png",
+  "sizeBytes": 2554608,
+  "ownerEmail": "stacydbradford@gmail.com",
+  "collaborators": [
+    "ccdccs@lapd.online",
+    "info@da.lacounty.gov"
+  ],
+  "significance": "ifconfig return taken on 06.26.26.  The PROMSC indicates Penetration Testers, and note - there are two.  UDP Tunnels evidence data exfiltration.",
+  "sha256": "80cf33eb064c3a223d574ed226b8953aebc5a73753be17ac6221e5b516bc4218",
+  "keccak256": "0x28118cb2e156f63d2c4d5bab25e2a6844c5a9257ee1a99234b86dffd7acacd7a",
+  "ledgerHash": "0x9030ef19e518a36390206b2bb8f0185bb198354378fc38f480d8b2a240629cf8",
+  "previousLedgerHash": "0xc30471e56b50faa7fd7cc39c23cfc373fcf554d93a8130cde939e32d45f37141",
+  "capturedAt": "2026-06-26T13:22:21.037Z",
+  "ipAddress": "76.32.138.87",
+  "loomUrl": null,
+  "attachments": [],
+  "suiTxDigest": "7ajYDH6kH9EEmYd8NPntNgLDJWYxQwoJhRGK5g1VfNRt",
+  "suiNetwork": "testnet",
+  "suiExplorerUrl": "https://suiscan.xyz/testnet/tx/7ajYDH6kH9EEmYd8NPntNgLDJWYxQwoJhRGK5g1VfNRt",
+  "rfc3161Token": "MDAwLgIBAjAlDCNCYWQgcmVxdWVzdCBmb3JtYXQgb3Igc3lzdGVtIGVycm9yLgMCAgQ=",
+  "rfc3161Timestamp": "2026-06-26T13:22:24.762Z",
+  "rfc3161Tsa": "https://freetsa.org/tsr"
+}
