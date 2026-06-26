@@ -1,0 +1,18 @@
+{
+  "sequence": 130,
+  "filename": "court-filing-31832537-final.pdf",
+  "contentType": "application/pdf",
+  "sizeBytes": 40557055,
+  "ownerEmail": "stacydbradford@gmail.com, info@da.lacounty.gov, ccdccs@lapd.online",
+  "collaborators": [],
+  "significance": "Court filing: Ex Parte Application — LASC 26PDR000474",
+  "sha256": "b4d6b3b20e27d9b1cdfed270ecc3b0638c10b2c14057ef324eab1c1a1737c844",
+  "keccak256": "0xc4f1c2fc8750b9f293f81b3ea3d97c060ee6aae51032d45dbc35dfd2137fb08a",
+  "ledgerHash": "0x1f048a6dbb23c26f2daa5055cbabe741f4dc1e05130b400b3823579004c20de0",
+  "previousLedgerHash": "0x6480e396fadb45748868b4390fa75a9fe18539d1634d3e46291a94580f3f37c2",
+  "capturedAt": "2026-06-26T22:23:50.950Z",
+  "ipAddress": "",
+  "suiTxDigest": "Ht52JHUE9VEUgagXaYoTWuqNCqEchWfWMkUe9YbS5sLD",
+  "suiNetwork": "testnet",
+  "suiExplorerUrl": "https://suiscan.xyz/testnet/tx/Ht52JHUE9VEUgagXaYoTWuqNCqEchWfWMkUe9YbS5sLD"
+}
