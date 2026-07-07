@@ -1,0 +1,22 @@
+{
+  "sequence": 219,
+  "filename": "IMG_2157.png",
+  "contentType": "image/png",
+  "sizeBytes": 2732726,
+  "ownerEmail": "stacydbradford@gmail.com",
+  "collaborators": [],
+  "significance": "likely a test screen",
+  "sha256": "14afec1f3fb6ab45874a77a4665b5987737805b3bb26faad395308506cdfd49d",
+  "keccak256": "0xc16c7c2ca4db99793c5c89e8f18835b5765d3c2e9520c5ab2e2690886892ae2f",
+  "ledgerHash": "0x0607ea3ff8f3c53a54580937a9742f65afaac32aa6992d1c5ec88d09a6f67586",
+  "previousLedgerHash": "0x802adb5dbc7ddc3bdaedea2f267945e048fbcd466d0c88495a48a5c60fbf5a0a",
+  "capturedAt": "2026-07-07T02:33:37.266Z",
+  "ipAddress": "76.32.138.203",
+  "attachments": [],
+  "suiTxDigest": "HcZvCfqYVhEKno7LC1rg9UYd4uXYYYnPcfAyYNcMauBR",
+  "suiNetwork": "testnet",
+  "suiExplorerUrl": "https://suiscan.xyz/testnet/tx/HcZvCfqYVhEKno7LC1rg9UYd4uXYYYnPcfAyYNcMauBR",
+  "rfc3161Token": "MDAwLgIBAjAlDCNCYWQgcmVxdWVzdCBmb3JtYXQgb3Igc3lzdGVtIGVycm9yLgMCAgQ=",
+  "rfc3161Timestamp": "2026-07-07T02:33:38.127Z",
+  "rfc3161Tsa": "https://freetsa.org/tsr"
+}
